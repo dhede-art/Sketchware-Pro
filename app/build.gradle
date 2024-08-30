@@ -27,7 +27,7 @@ android {
         applicationId "com.sketchware.remod"
         namespace "com.sketchware.remod"
         //noinspection ExpiredTargetSdkVersion since we don't target getting Sketchware Pro on Google Play.
-        targetSdkVersion 28
+        targetSdkVersion 34
         versionCode 150
         versionName "v6.4.0-SNAPSHOT-" + getCommitHash()
 
